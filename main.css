@@ -1,14 +1,18 @@
 h1 {
-    color: red;
+    color: rgb(9, 0, 128);
     font-size: 40px;
 }
 
 h2 {
-    color: green;
+    color: rgb(0, 0, 0);
     font-size: 30px;
 }
 
 p {
     color: gold;
     font-size: 20px;
+}
+.title {
+    color: brown;
+    font-size: 50px;
 }
